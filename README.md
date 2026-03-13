@@ -155,6 +155,13 @@ See the [contribution docs](https://docs.bracketapp.nl/docs/community/contributi
             <br />
             <sub><b>@L.M@</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/HunterDev619">
+            <img src="https://avatars.githubusercontent.com/u/258811506?v=4" width="100;" alt="HunterDev619"/>
+            <br />
+            <sub><b>HunterDev</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors,dependabot/- -end -->
